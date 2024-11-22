@@ -44,7 +44,9 @@ GitInspector is an intelligent GitHub issue analysis tool that combines the powe
 
 ## Demo Video
 
-Check out this video to see the tool in action: [Watch Demo](https://github.com/user-attachments/assets/f0c63bb7-e4f0-4794-bc32-0aca896845db)
+Check out this video to see the tool in action:<br>
+
+https://github.com/user-attachments/assets/f0c63bb7-e4f0-4794-bc32-0aca896845db
 
 
 ## 🔧 Components
