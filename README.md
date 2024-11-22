@@ -42,16 +42,10 @@ GitInspector is an intelligent GitHub issue analysis tool that combines the powe
 3. Choose 'no' to use existing issues from the vector store
 4. Use natural language queries to ask questions about the issues
 
-## 🎥 Demo
+## Demo Video
 
-Check out our demo video to see GitInspector in action:
-<details>
-<summary>Watch Demo Video</summary>
-<video controls width="100%">
-  <source src="GitHub Rag Demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-</details>
+Check out this video to see the tool in action: [Watch Demo](https://github.com/user-attachments/assets/f0c63bb7-e4f0-4794-bc32-0aca896845db)
+
 
 ## 🔧 Components
 
