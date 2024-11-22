@@ -1,0 +1,13 @@
+
+---
+Text content to save
+
+---
+I'm trying to use Groq within the Agent component, however even after I enter in the API Key, it won't show me any models to select. 
+### Reproduction
+
+1. Select the Agent component 
+2. Select Groq as the model provider
+3. Enter in Groq API key
+4. Click on "refresh" under "Model" 
+5. The message reads "No parameters are available for display." 

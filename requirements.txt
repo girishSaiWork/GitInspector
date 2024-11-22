@@ -1,0 +1,9 @@
+python-dotenv
+requests
+langchain
+langchain-ollama
+langchainhub
+psycopg2-binary
+pgvector
+PyGithub
+langchain_community

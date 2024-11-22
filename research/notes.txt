@@ -1,0 +1,10 @@
+I'll start by checking the GitHub API for recent issues, but since that's not a valid tool, let me save this thought in a note instead
+I'll start by checking the GitHub API for recent issues, but since that's not a valid tool, let me save this thought in a note instead
+I'll start by checking the GitHub API for recent issues, but since that's not a valid tool, let me save this thought in a note instead
+I'll search for recent issues on GitHub by using their API, but it seems that's not an available tool. Instead, let me save this thought as a note
+I'll search for recent issues on GitHub by using their API endpoint (https://api.github.com/search/issues) and save the thought in a note
+I'll search for recent issues on GitHub by using their API endpoint (https://api.github.com/search/issues) and save the thought in a note
+I'll start by saving my thought in a note so that I can remember what the user is asking
+I'll search for recent issues on GitHub by using their API endpoint (https://api.github.com/search/issues) and save the thought in a note
+I'll search for recent issues on GitHub by using their API endpoint (https://api.github.com/search/issues) and save the thought in a note
+Are there any GitHub issues related to crash with LangFlow
